@@ -1,0 +1,87 @@
+Options:
+1. Adding a new student
+2. Removeing a student
+3. Searching for a student
+4. Display all students infromation
+5. Save students to file
+6. Load students from file
+7. Exit
+Enter your choice: 1
+Enter the name of the student: BHAROTHU NIKHIL NAIK
+Enter the roll number of the student: 20R01A04J9
+Enter the grade of the student: A
+Student added successfully!
+Options:
+1. Adding a new student
+2. Removeing a student
+3. Searching for a student
+4. Display all students infromation
+5. Save students to file
+6. Load students from file
+7. Exit
+Enter your choice: 1
+Enter the name of the student: KARTHIK MERUGU
+Enter the roll number of the student: 20R01A0498
+Enter the grade of the student: A+
+Student added successfully!
+Options:
+1. Adding a new student
+2. Removeing a student
+3. Searching for a student
+4. Display all students infromation
+5. Save students to file
+6. Load students from file
+7. Exit
+Enter your choice: 2
+Enter the roll number of the student to remove: 20R01A0498
+Student removed successfully!
+
+Options:
+1. Adding a new student
+2. Removeing a student
+3. Searching for a student
+4. Display all students infromation
+5. Save students to file
+6. Load students from file
+7. Exit
+Enter your choice: 1
+Enter the name of the student: NALLA RAM SAI
+Enter the roll number of the student: 20R01A0499
+Enter the grade of the student: B+
+Student added successfully!
+
+Options:
+1. Adding a new student
+2. Removeing a student
+3. Searching for a student
+4. Display all students infromation
+5. Save students to file
+6. Load students from file
+7. Exit
+Enter your choice: 3
+Enter the roll number of the student to search: 20R01A04J9
+Student found:
+Name: BHAROTHU NIKHIL NAIK, Roll Number: 20R01A04J9, Grade: A
+Options:
+1. Adding a new student
+2. Removeing a student
+3. Searching for a student
+4. Display all students infromation
+5. Save students to file
+6. Load students from file
+7. Exit
+Enter your choice: 4
+All students:
+Name: BHAROTHU NIKHIL NAIK, Roll Number: 20R01A04J9, Grade: A
+Name: NALLA RAM SAI, Roll Number: 20R01A0499, Grade: B+
+
+Options:
+1. Adding a new student
+2. Removeing a student
+3. Searching for a student
+4. Display all students infromation
+5. Save students to file
+6. Load students from file
+7. Exit
+Enter your choice: 5
+Enter the filename to save students to: 
